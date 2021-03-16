@@ -87,7 +87,7 @@ body {
 }
 
 .profile img {
-	max-width: 100%;
+	/* max-width: 100%; */
 	border-radius: 50%;
 	opacity: 1;
 }
