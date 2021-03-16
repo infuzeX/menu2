@@ -433,3 +433,30 @@ body {
 @media screen and (max-width: 320px) {
 	body { font-size: 70%; }
 }
+/****************************************************************************************************************/
+button{
+	text-decoration: none;
+	border: none;
+	border-radius: 10px 30px;
+	padding: 20px 30px;
+	font-size: 20px;
+	color: #333;
+	box-shadow: 10px 10px 15px rgb(73 78 92 / 10%);
+}
+button:hover{
+	color: #FFB100;
+}
+.btn1{
+	text-decoration: none;
+	border: none;
+	border-radius: 10px 30px;
+	padding: 20px 30px;
+	font-size: 20px;
+	color: #333;
+	box-shadow: 10px 10px 15px rgb(73 78 92 / 10%);
+	background-color: #FFB100;
+	
+}
+.btn1:hover{
+	color: white;
+}
