@@ -442,6 +442,7 @@ button{
 	font-size: 20px;
 	color: #333;
 	box-shadow: 10px 10px 15px rgb(73 78 92 / 10%);
+	background-color: white;
 }
 button:hover{
 	color: #FFB100;
