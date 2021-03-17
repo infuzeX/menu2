@@ -25,9 +25,9 @@ a:hover {
 .codropsheader {
 	width: 100%;
 	margin: 0 auto;
-	text-align: left;
+	text-align:right;
 	padding: 1.4em;
-	opacity: 0.7;
+	
 	visibility: visible;
 	-webkit-transition: opacity 0.3s;
 	transition: opacity 0.3s;
@@ -200,4 +200,11 @@ a:hover {
 
 @media screen and (max-height: 30.25em) {
 	.codropsheader nav { display: none; }
+}
+/***************************************************************************************************/
+@media screen and (max-width: 370px) {
+	.codropsheader img{
+	width: 100%;
+	}
+
 }
